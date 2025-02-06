@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'C4AQIBW5400A3OJ'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "C4AQIBW5400A3OJ" (!) = "", "C4AQIBW5400A3OJ", "Other", "80-C4AQIBW5400A3OJ", "https://www.mouser.com/Search/Refine.aspx?Keyword=80-C4AQIBW5400A3OJ", "", "", "C4AQ, Film, Metallized Polypropylene, Automotive DC Link, 40 uF, 5%, 800 VDC, 105C, -55C, 70C, 750 MOhms, 13 V/us, 14 nH, 92.8 g, 42mm, 50mm, 35mm, Lead Spacing = 37.5mm, 30", "https://content.kemet.com/datasheets/KEM_F3114_C4AQ.pdf", "50.2 mm"
+END_PART
+
+END.

@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "C4_37R5_2w")(type "KiCad")(uri "/Users/axelschmidt/Desktop/KiCad/C4_37R5_2w.pretty")(options "")(descr ""))
-  (lib (name "Library")(type "KiCad")(uri "/Users/axelschmidt/Desktop/KiCad/Library.pretty")(options "")(descr ""))
-)

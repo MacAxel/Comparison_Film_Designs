@@ -1,9 +1,0 @@
-Manufacturer=KEMET
-PartNumber=C4AQIBW5400A3OJ
-PartCategory=Capacitor
-PackageCategory=Other
-PinCount=4
-Version=3.7
-Released=2020-09-23 15:34:48
-Downloaded=2025-02-05 17:17:02
-3D=Y
